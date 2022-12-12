@@ -10,5 +10,6 @@
   - create a new project either from the GCP console or with the deploy command below
   - `$ cd where/you/cloned/your/repo`
   - `$ gcloud app deploy`
-  - `$ gcloud app browse`
+  - `$ gcloud app browse`  
+  
 Now that's one fast API!
